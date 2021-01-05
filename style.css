@@ -1,0 +1,10 @@
+body{
+    font-family: 'Abril Fatface', cursive
+}
+.halfwidth-one img{
+    float: right;
+    margin-left: 50px;
+    height: 60%;
+    width: 60%;
+    
+}
